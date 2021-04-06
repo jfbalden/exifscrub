@@ -1,0 +1,21 @@
+{
+  "name": "exifscrubber_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "exif": "^0.6.0",
+    "exifr": "^4.3.5",
+    "express": "^4.17.1",
+    "file-type": "^14.1.4",
+    "multer": "^1.4.2",
+    "piexifjs": "^1.0.6",
+    "rfdc": "^1.1.4"
+  }
+}
